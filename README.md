@@ -11,7 +11,7 @@
 > [🚗 Object, String 정리](https://log-back.tistory.com/26)
 
 ##### ch04 : **Wrapper**
-> [🍱Wrapper , AutoBoxing 정리]()
+> [🍱Wrapper , AutoBoxing 정리](https://log-back.tistory.com/27)
 
 ##### ch05 : **Generics**, **WildCard**
 > [👻 Generics , WildCard 정리]()
